@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/studying2.0.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/studying2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/studying2.0.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/studying2.0.AssemblyInfo.cs
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/studying2.0.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/studying2.0/studying2.0/bin/Debug/net6.0/studying2.0
+/Users/yellobunny/Projects/studying2.0/studying2.0/bin/Debug/net6.0/studying2.0.deps.json
+/Users/yellobunny/Projects/studying2.0/studying2.0/bin/Debug/net6.0/studying2.0.runtimeconfig.json
+/Users/yellobunny/Projects/studying2.0/studying2.0/bin/Debug/net6.0/studying2.0.dll
+/Users/yellobunny/Projects/studying2.0/studying2.0/bin/Debug/net6.0/studying2.0.pdb
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/studying2.0.dll
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/refint/studying2.0.dll
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/studying2.0.pdb
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/studying2.0.genruntimeconfig.cache
+/Users/yellobunny/Projects/studying2.0/studying2.0/obj/Debug/net6.0/ref/studying2.0.dll
