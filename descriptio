@@ -1,0 +1,3 @@
+My program shows how to work method in C#. Method - is a function, which belongs to the class.
+In my program everuthing is simple: the user enters 3 numbers (there are the sides of the triangle)an the program calculates the perimetr. 
+The method I used for the perimetr formula.
